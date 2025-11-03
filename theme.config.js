@@ -21,10 +21,6 @@ export default {
   unstable_faviconGlyph: "👋",
   navs: [
     {
-      url: "/contact",
-      name: "Contact us"
-    },
-    {
       url: "/feed.xml",
       name: "RSS",
       "newWindow": true
