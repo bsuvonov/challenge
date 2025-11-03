@@ -1,13 +1,12 @@
 {
   "name": "nextra-blog",
-  "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "pnpm feed && next build",
+    "build": "pnpm feed && next build && next export",
+    "feed": "node scripts/gen-rss.js",
     "start": "next start",
-    "lint": "next lint",
-    "feed":"node scripts/gen-rss.js"
+    "lint": "next lint"
   },
   "dependencies": {
     "autoprefixer": "^10.4.13",
