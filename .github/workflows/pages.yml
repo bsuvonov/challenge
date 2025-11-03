@@ -24,8 +24,7 @@ jobs:
       - uses: actions/setup-node@v4
         with: { node-version: 20, cache: pnpm }
       - run: pnpm install --frozen-lockfile
-      - run: pnpm build                  # writes ./out
-      - uses: actions/configure-pages@v5
+      - run: pnpm build
       - uses: actions/upload-pages-artifact@v3
         with: { path: out }
       - id: deployment
