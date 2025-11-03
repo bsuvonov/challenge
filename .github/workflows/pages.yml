@@ -24,9 +24,11 @@ jobs:
       - uses: pnpm/action-setup@v4
         with: { version: 9 }
       - uses: actions/setup-node@v4
-        with: { node-version: 20, cache: pnpm }
+        with:
+          node-version: 20
+          cache: pnpm
       - run: pnpm install --frozen-lockfile
-      - run: pnpm build                       # outputs ./out via next.config.js
+      - run: pnpm build                    # creates ./out (static export)
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with: { path: out }
