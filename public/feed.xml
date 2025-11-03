@@ -4,7 +4,7 @@
         <description><![CDATA[Rajdeep Singh -- demo blog built with nextra and nextjs]]></description>
         <link>https://frontendweb3.github.io/nextra-blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 03 Nov 2025 00:28:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 14:18:48 GMT</lastBuildDate>
         <atom:link href="https://frontendweb3.github.io/nextra-blog/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Things You Most Likely Didn't Know About Health.]]></title>
@@ -106,26 +106,8 @@
             <category><![CDATA[Blog ]]></category>
             <category><![CDATA[ five ]]></category>
             <category><![CDATA[ Secrets]]></category>
-            <dc:creator><![CDATA[Rajdeep singh]]></dc:creator>
+            <dc:creator><![CDATA[Bunyod Suvonov]]></dc:creator>
             <pubDate>Tue, 22 Nov 2022 07:20:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Markdown Examples]]></title>
-            <description><![CDATA[View examples of all possible Markdown options.]]></description>
-            <link>/posts/markdown</link>
-            <guid isPermaLink="true">/posts/markdown</guid>
-            <category><![CDATA[web development]]></category>
-            <dc:creator><![CDATA[You]]></dc:creator>
-            <pubDate>Thu, 18 Mar 2021 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Next.js Pages]]></title>
-            <description><![CDATA[Learn more about Next.js pages.]]></description>
-            <link>/posts/pages</link>
-            <guid isPermaLink="true">/posts/pages</guid>
-            <category><![CDATA[web development]]></category>
-            <dc:creator><![CDATA[You]]></dc:creator>
-            <pubDate>Thu, 13 Oct 2022 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Computer Science Is Going To Change Your Business Strategies]]></title>
@@ -138,15 +120,30 @@
             <pubDate>Thu, 08 Dec 2022 08:35:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Random blog Title for markdown.]]></title>
-            <description><![CDATA[Dolor excepteur ad ad fugiat Lorem consectetur velit excepteur duis qui.]]></description>
-            <link>/posts/random-my-blog-title</link>
-            <guid isPermaLink="true">/posts/random-my-blog-title</guid>
-            <category><![CDATA[npm ]]></category>
-            <category><![CDATA[npm cli ]]></category>
-            <category><![CDATA[npm install command]]></category>
-            <dc:creator><![CDATA[Rajdeep Singh]]></dc:creator>
-            <pubDate>Sun, 20 Mar 2022 13:09:24 GMT</pubDate>
+            <title><![CDATA[Markdown Examples]]></title>
+            <description><![CDATA[View examples of all possible Markdown options.]]></description>
+            <link>/posts/markdown</link>
+            <guid isPermaLink="true">/posts/markdown</guid>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[You]]></dc:creator>
+            <pubDate>Thu, 18 Mar 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Intro]]></title>
+            <description><![CDATA[Culpa laboris aliquip ea consectetur mollit ea ipsum sint qui culpa laboris dolor adipisicing proident. Et officia consequat do nulla tempor cupidatat elit.]]></description>
+            <link>/posts/nov-3-2025</link>
+            <guid isPermaLink="true">/posts/nov-3-2025</guid>
+            <dc:creator><![CDATA[Bunyod Suvonov]]></dc:creator>
+            <pubDate>Mon, 03 Nov 2025 08:05:53 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next.js Pages]]></title>
+            <description><![CDATA[Learn more about Next.js pages.]]></description>
+            <link>/posts/pages</link>
+            <guid isPermaLink="true">/posts/pages</guid>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[You]]></dc:creator>
+            <pubDate>Thu, 13 Oct 2022 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Photography Is Not Rocket Science! Learn Them Now!]]></title>
@@ -157,6 +154,17 @@
             <category><![CDATA[ Photo]]></category>
             <dc:creator><![CDATA[Ashley Paul]]></dc:creator>
             <pubDate>Tue, 01 Nov 2022 08:40:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Random blog Title for markdown.]]></title>
+            <description><![CDATA[Dolor excepteur ad ad fugiat Lorem consectetur velit excepteur duis qui.]]></description>
+            <link>/posts/random-my-blog-title</link>
+            <guid isPermaLink="true">/posts/random-my-blog-title</guid>
+            <category><![CDATA[npm ]]></category>
+            <category><![CDATA[npm cli ]]></category>
+            <category><![CDATA[npm install command]]></category>
+            <dc:creator><![CDATA[Bunyod Suvonov]]></dc:creator>
+            <pubDate>Sun, 20 Mar 2022 13:09:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Seven mind blowing Facts About Smart Phone.]]></title>
@@ -180,6 +188,16 @@
             <pubDate>Mon, 08 Aug 2022 09:36:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ten Features Of Smart Phone That Make Everyone Love It]]></title>
+            <description><![CDATA[Ea nisi do cupidatat irure enim dolore velit cupidatat amet id et deserunt fugiat ex.]]></description>
+            <link>/posts/ten-features-of-smart-phone-that-make-everyone-love-it</link>
+            <guid isPermaLink="true">/posts/ten-features-of-smart-phone-that-make-everyone-love-it</guid>
+            <category><![CDATA[Features]]></category>
+            <category><![CDATA[ Smart Phone]]></category>
+            <dc:creator><![CDATA[Linda Pittman]]></dc:creator>
+            <pubDate>Tue, 08 Mar 2022 04:45:19 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ten Reasons Why You Cannot Start Blog blogging]]></title>
             <description><![CDATA[Quis irure ex ad nostrud quis reprehenderit in occaecat mollit mollit irure Lorem ullamco sit.]]></description>
             <link>/posts/ten-reasons-why-you-cannot-start-blog-blogging</link>
@@ -189,16 +207,6 @@
             <category><![CDATA[ Start blog]]></category>
             <dc:creator><![CDATA[Gregg Walker]]></dc:creator>
             <pubDate>Sun, 08 May 2022 07:33:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ten Features Of Smart Phone That Make Everyone Love It]]></title>
-            <description><![CDATA[Ea nisi do cupidatat irure enim dolore velit cupidatat amet id et deserunt fugiat ex.]]></description>
-            <link>/posts/ten-features-of-smart-phone-that-make-everyone-love-it</link>
-            <guid isPermaLink="true">/posts/ten-features-of-smart-phone-that-make-everyone-love-it</guid>
-            <category><![CDATA[Features]]></category>
-            <category><![CDATA[ Smart Phone]]></category>
-            <dc:creator><![CDATA[Linda Pittman]]></dc:creator>
-            <pubDate>Tue, 08 Mar 2022 04:45:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The History of Humans]]></title>
