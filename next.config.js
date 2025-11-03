@@ -1,3 +1,4 @@
+// next.config.js
 const withNextra = require('nextra')('nextra-theme-blog', './theme.config.js')
 const isProd = process.env.NODE_ENV === 'production'
 const repo = 'challenge'
