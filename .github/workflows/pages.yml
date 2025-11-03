@@ -1,4 +1,3 @@
-# .github/workflows/pages.yml
 name: Deploy Next.js (Nextra) to Pages
 on:
   push: { branches: [main] }
@@ -28,7 +27,7 @@ jobs:
           node-version: 20
           cache: pnpm
       - run: pnpm install --frozen-lockfile
-      - run: pnpm build                    # creates ./out (static export)
+      - run: pnpm build          # outputs ./out via output:'export'
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with: { path: out }
