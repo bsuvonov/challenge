@@ -4,7 +4,7 @@
         <description><![CDATA[Rajdeep Singh -- demo blog built with nextra and nextjs]]></description>
         <link>https://frontendweb3.github.io/nextra-blog/</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 09 Jan 2023 08:01:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Nov 2025 00:28:12 GMT</lastBuildDate>
         <atom:link href="https://frontendweb3.github.io/nextra-blog/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[10 Things You Most Likely Didn't Know About Health.]]></title>
@@ -28,11 +28,22 @@
             <pubDate>Sun, 13 Nov 2022 08:07:38 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[15 Facts You Never Knew About Photography]]></title>
+            <description><![CDATA[Dolor adipisicing adipisicing Lorem et irure veniam nisi anim excepteur mollit occaecat eu.]]></description>
+            <link>/posts/15-facts-you-never-knew-about-photography</link>
+            <guid isPermaLink="true">/posts/15-facts-you-never-knew-about-photography</guid>
+            <category><![CDATA[15 facts]]></category>
+            <category><![CDATA[ Photography]]></category>
+            <category><![CDATA[ Jeanne Ballard facts]]></category>
+            <dc:creator><![CDATA[Jeanne Ballard]]></dc:creator>
+            <pubDate>Tue, 15 Nov 2022 08:14:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[5 Reasons Why You Shouldn't Learn Photography On Your Own.]]></title>
             <description><![CDATA[Mollit aute nostrud voluptate amet irure consectetur commodo cupidatat elit. Non ut dolor nulla dolor duis. Anim eiusmod fugiat eiusmod ut nulla nulla labore.]]></description>
             <link>/posts/5-reasons-why-you-shouldn&apos;t-learn-photography-on-your-own</link>
             <guid isPermaLink="true">/posts/5-reasons-why-you-shouldn&apos;t-learn-photography-on-your-own</guid>
-            <category><![CDATA[Photography ]]></category>
+            <category><![CDATA[Photography]]></category>
             <dc:creator><![CDATA[Jeanne Ballard]]></dc:creator>
             <pubDate>Wed, 09 Nov 2022 08:18:10 GMT</pubDate>
         </item>
@@ -59,17 +70,6 @@
             <pubDate>Fri, 11 Nov 2022 08:29:39 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[15 Facts You Never Knew About Photography]]></title>
-            <description><![CDATA[Dolor adipisicing adipisicing Lorem et irure veniam nisi anim excepteur mollit occaecat eu.]]></description>
-            <link>/posts/15-facts-you-never-knew-about-photography</link>
-            <guid isPermaLink="true">/posts/15-facts-you-never-knew-about-photography</guid>
-            <category><![CDATA[15 facts]]></category>
-            <category><![CDATA[ Photography]]></category>
-            <category><![CDATA[ Jeanne Ballard facts]]></category>
-            <dc:creator><![CDATA[Jeanne Ballard]]></dc:creator>
-            <pubDate>Tue, 15 Nov 2022 08:14:33 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[10 Blog That Had Gone Way Too Far]]></title>
             <description><![CDATA[Quis irure ex ad irure Lorem ullamco sit nostrud quis reprehenderit in occaecat mollit mollit.]]></description>
             <link>/posts/blog-that-had-gone-way-too-far</link>
@@ -91,6 +91,14 @@
             <pubDate>Sun, 20 Nov 2022 07:05:27 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Draft article]]></title>
+            <description><![CDATA[Mollit aute nostrud voluptate amet irure consectetur commodo cupidatat elit. Non ut dolor nulla dolor duis. Anim eiusmod fugiat eiusmod ut nulla nulla labore.]]></description>
+            <link>/posts/draft-article</link>
+            <guid isPermaLink="true">/posts/draft-article</guid>
+            <category><![CDATA[draft]]></category>
+            <pubDate>Wed, 09 Nov 2022 08:18:10 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Five Secrets You Will Never Know About Blogging]]></title>
             <description><![CDATA[Non aute adipisicing anim enim et proident proident consectetur est laborum tempor.]]></description>
             <link>/posts/five-secrets-you-will-never-know-about-blogging</link>
@@ -102,12 +110,22 @@
             <pubDate>Tue, 22 Nov 2022 07:20:16 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Draft article]]></title>
-            <description><![CDATA[Mollit aute nostrud voluptate amet irure consectetur commodo cupidatat elit. Non ut dolor nulla dolor duis. Anim eiusmod fugiat eiusmod ut nulla nulla labore.]]></description>
-            <link>/posts/draft-article</link>
-            <guid isPermaLink="true">/posts/draft-article</guid>
-            <category><![CDATA[draft]]></category>
-            <pubDate>Wed, 09 Nov 2022 08:18:10 GMT</pubDate>
+            <title><![CDATA[Markdown Examples]]></title>
+            <description><![CDATA[View examples of all possible Markdown options.]]></description>
+            <link>/posts/markdown</link>
+            <guid isPermaLink="true">/posts/markdown</guid>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[You]]></dc:creator>
+            <pubDate>Thu, 18 Mar 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Next.js Pages]]></title>
+            <description><![CDATA[Learn more about Next.js pages.]]></description>
+            <link>/posts/pages</link>
+            <guid isPermaLink="true">/posts/pages</guid>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[You]]></dc:creator>
+            <pubDate>Thu, 13 Oct 2022 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[How Computer Science Is Going To Change Your Business Strategies]]></title>
@@ -120,22 +138,15 @@
             <pubDate>Thu, 08 Dec 2022 08:35:28 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Markdown Examples]]></title>
-            <description><![CDATA[View examples of all possible Markdown options.]]></description>
-            <link>/posts/markdown</link>
-            <guid isPermaLink="true">/posts/markdown</guid>
-            <category><![CDATA[web development]]></category>
-            <dc:creator><![CDATA[You]]></dc:creator>
-            <pubDate>Thu, 18 Mar 2021 18:30:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Next.js Pages]]></title>
-            <description><![CDATA[Learn more about Next.js pages.]]></description>
-            <link>/posts/pages</link>
-            <guid isPermaLink="true">/posts/pages</guid>
-            <category><![CDATA[web development]]></category>
-            <dc:creator><![CDATA[You]]></dc:creator>
-            <pubDate>Thu, 13 Oct 2022 18:30:00 GMT</pubDate>
+            <title><![CDATA[Random blog Title for markdown.]]></title>
+            <description><![CDATA[Dolor excepteur ad ad fugiat Lorem consectetur velit excepteur duis qui.]]></description>
+            <link>/posts/random-my-blog-title</link>
+            <guid isPermaLink="true">/posts/random-my-blog-title</guid>
+            <category><![CDATA[npm ]]></category>
+            <category><![CDATA[npm cli ]]></category>
+            <category><![CDATA[npm install command]]></category>
+            <dc:creator><![CDATA[Rajdeep Singh]]></dc:creator>
+            <pubDate>Sun, 20 Mar 2022 13:09:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Photography Is Not Rocket Science! Learn Them Now!]]></title>
@@ -146,17 +157,6 @@
             <category><![CDATA[ Photo]]></category>
             <dc:creator><![CDATA[Ashley Paul]]></dc:creator>
             <pubDate>Tue, 01 Nov 2022 08:40:19 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Random blog Title for markdown.]]></title>
-            <description><![CDATA[Dolor excepteur ad ad fugiat Lorem consectetur velit excepteur duis qui.]]></description>
-            <link>/posts/random-my-blog-title</link>
-            <guid isPermaLink="true">/posts/random-my-blog-title</guid>
-            <category><![CDATA[npm ]]></category>
-            <category><![CDATA[npm cli ]]></category>
-            <category><![CDATA[npm install command]]></category>
-            <dc:creator><![CDATA[Rajdeep Singh]]></dc:creator>
-            <pubDate>Sun, 20 Mar 2022 13:09:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Seven mind blowing Facts About Smart Phone.]]></title>
@@ -180,6 +180,17 @@
             <pubDate>Mon, 08 Aug 2022 09:36:48 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Ten Reasons Why You Cannot Start Blog blogging]]></title>
+            <description><![CDATA[Quis irure ex ad nostrud quis reprehenderit in occaecat mollit mollit irure Lorem ullamco sit.]]></description>
+            <link>/posts/ten-reasons-why-you-cannot-start-blog-blogging</link>
+            <guid isPermaLink="true">/posts/ten-reasons-why-you-cannot-start-blog-blogging</guid>
+            <category><![CDATA[Blog ]]></category>
+            <category><![CDATA[ Ten Reasons ]]></category>
+            <category><![CDATA[ Start blog]]></category>
+            <dc:creator><![CDATA[Gregg Walker]]></dc:creator>
+            <pubDate>Sun, 08 May 2022 07:33:48 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Ten Features Of Smart Phone That Make Everyone Love It]]></title>
             <description><![CDATA[Ea nisi do cupidatat irure enim dolore velit cupidatat amet id et deserunt fugiat ex.]]></description>
             <link>/posts/ten-features-of-smart-phone-that-make-everyone-love-it</link>
@@ -199,17 +210,6 @@
             <category><![CDATA[ Humans history]]></category>
             <dc:creator><![CDATA[DR. Jeffery Schwartz]]></dc:creator>
             <pubDate>Tue, 08 Mar 2022 07:57:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Ten Reasons Why You Cannot Start Blog blogging]]></title>
-            <description><![CDATA[Quis irure ex ad nostrud quis reprehenderit in occaecat mollit mollit irure Lorem ullamco sit.]]></description>
-            <link>/posts/ten-reasons-why-you-cannot-start-blog-blogging</link>
-            <guid isPermaLink="true">/posts/ten-reasons-why-you-cannot-start-blog-blogging</guid>
-            <category><![CDATA[Blog ]]></category>
-            <category><![CDATA[ Ten Reasons ]]></category>
-            <category><![CDATA[ Start blog]]></category>
-            <dc:creator><![CDATA[Gregg Walker]]></dc:creator>
-            <pubDate>Sun, 08 May 2022 07:33:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Millionaire Guide On Programing To Help You Get Rich.]]></title>
